@@ -3,6 +3,9 @@
     "ValveCfg2Json": {
       "commandName": "Project",
       "commandLineArgs": "C:\\Users\\Jan\\source\\repos\\ValveCfg2Json\\ValveFormat.Superpower.Tests\\tf2rebalance_attributes.example.txt"
+    },
+    "Docker": {
+      "commandName": "Docker"
     }
   }
 }
